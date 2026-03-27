@@ -38,9 +38,9 @@ Peripheral cables are used to connect external devices (peripherals) to a comput
 
 ##  Audio Connectors (3.5mm Color Code)
 
-* **🩷 Pink (Microphone In)** → Connects microphones (audio input)
-* **🟢 Green (Line Out / Audio Out)** → Connects speakers or headphones (audio output)
-* **🔵 Blue (Line In)** → Connects external audio sources (audio input)
+* *** Pink (Microphone In)** → Connects microphones (audio input)
+* *** Green (Line Out / Audio Out)** → Connects speakers or headphones (audio output)
+* *** Blue (Line In)** → Connects external audio sources (audio input)
 
 ---
 
