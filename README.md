@@ -1,4 +1,4 @@
-                 #  Study Journey – CompTIA A+
+## Study Journey – CompTIA A+
 
 ##  About this Repository
 
