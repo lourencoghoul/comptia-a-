@@ -1,12 +1,12 @@
-# 🧠 CPU (Central Processing Unit)
+#  CPU (Central Processing Unit)
 
-## 📌 Overview
+##  Overview
 
 The CPU (Central Processing Unit) is the main component of a computer responsible for processing instructions and performing calculations. It operates using binary language (0s and 1s), which is the fundamental way computers process data.
 
 ---
 
-## ⚙️ Functions
+##  Functions
 
 * Executes program instructions
 * Performs calculations and logical operations
@@ -15,7 +15,7 @@ The CPU (Central Processing Unit) is the main component of a computer responsibl
 
 ---
 
-## 🧩 Main Components
+##  Main Components
 
 * **ALU (Arithmetic Logic Unit)** → Performs mathematical and logical operations
 * **CU (Control Unit)** → Directs operations within the CPU
