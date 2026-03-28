@@ -76,4 +76,7 @@ ARM is a modern architecture focused on efficiency and low power consumption.
 
 ARM is different from x86/x86-64 because it prioritizes energy efficiency, making it ideal for smartphones, tablets, and portable devices.
 
+## Example
+Every CPU uses an ISA (Instruction Set Architecture), but there is no single universal ISA. Each processor is designed to work with a specific ISA, such as **Intel and AMD processors** using x86/x86-64, and **smartphones** using ARM. Programs must be compatible with the CPU’s ISA to run properly.
+
 
