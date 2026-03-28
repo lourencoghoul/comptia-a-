@@ -35,7 +35,7 @@ x86 is a specific example of this language, like “German” within the world o
 
 CISC (Complex Instruction Set Computer) is the way x86 is spoken, that is, the style of building and executing these instructions — with more complex commands capable of doing multiple things in a single instruction.
 
-# My Project
+# My Project Analogy
 
 This project presents a visual flowchart illustrating CPU architecture using a language analogy:
 
@@ -44,6 +44,9 @@ This project presents a visual flowchart illustrating CPU architecture using a l
 CISC uses more complex instructions (like full sentences), while RISC uses simpler instructions (like short words), providing the set of words available to construct instructions.  
 - **x86 and ARM** are examples of ISAs that follow the CISC and RISC design styles, respectively., representing fully functional instruction sets.
 
-The project applies “language filters”: **German (CISC) uses full sentences**, while **English (RISC) uses individual words**, showing different ways instructions can be structured and executed.
+The project applies “language filters”: **x86 German with German dictionary (CISC) with rules: uses full sentences**, while **ARM English with English dictionary (RISC)with rules: uses individual words**, showing different ways instructions can be structured and executed.
+
+# Note:
+Remember that this is all just a visual analogy I created for better understanding.
 
 ![Processor Architecture](image.jpeg)
