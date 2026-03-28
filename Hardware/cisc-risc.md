@@ -39,10 +39,10 @@ CISC (Complex Instruction Set Computer) is the way x86 is spoken, that is, the s
 
 This project presents a visual flowchart illustrating CPU architecture using a language analogy:
 
-- **ISA** represents **human language**, defining what can be communicated.  
-- **CISC** is like a **German dictionary with grammar rules**, using **complete sentences** to execute instructions.  
-- **RISC** represents an **English dictionary**, providing the set of words available to construct instructions.  
-- **x86** and **ARM** are **ready-to-use languages** built on top of these dictionaries, representing fully functional instruction sets.
+- The **ISA** defines the set of instructions that a CPU can understand and execute.  
+- “In this analogy, **CISC and RISC** are different design styles:
+CISC uses more complex instructions (like full sentences), while RISC uses simpler instructions (like short words), providing the set of words available to construct instructions.  
+- **x86 and ARM** are examples of ISAs that follow the CISC and RISC design styles, respectively., representing fully functional instruction sets.
 
 The project applies “language filters”: **German (CISC) uses full sentences**, while **English (RISC) uses individual words**, showing different ways instructions can be structured and executed.
 
