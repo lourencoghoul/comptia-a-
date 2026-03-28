@@ -47,6 +47,14 @@ Do less per instruction, but execute them faster.
 - ARM → ISA designed with RISC principles  
 
 
+## Simple analogy
+
+This flowchart was created to provide a clearer and more intuitive representation of CPU architecture concepts.
+
+In this model, **ISA** defines what instructions a processor can execute. **CISC (x86)** is represented as an approach that uses more complex and complete instructions, while **RISC (ARM)** focuses on simpler and more efficient instructions executed in greater quantity.
+
+The purpose of this diagram is to improve understanding by visually demonstrating how these different instruction design approaches work, making complex concepts easier to interpret.
+
 ![CPU Architecture](imagem2.jpeg)
 ---
 
