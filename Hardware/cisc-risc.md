@@ -1,52 +1,55 @@
-# CISC and RISC
+## CISC vs RISC
 
-This file presents the two main types of ISA (Instruction Set Architecture): CISC and RISC.
+### Overview
 
-## CISC – Complex Instruction Set Computer
+CISC and RISC are **design philosophies** used when creating an Instruction Set Architecture (ISA).  
+They define **how instructions are structured and executed**, not the CPU itself.
 
-- Complex instruction set capable of performing multiple operations per command.
-- Typically has longer and more varied instructions.
-- Fewer instructions needed to perform complex tasks.
-- More demanding in terms of hardware and memory.
-- Processor examples: Intel x86, AMD x86.
+---
 
-## RISC – Reduced Instruction Set Computer
+### CISC (Complex Instruction Set Computing)
 
-- Reduced instruction set focused on simple and fast operations.
-- Each instruction performs a single operation.
-- More instructions per program, but execution is fast and predictable.
-- More efficient in terms of pipeline and overall performance.
-- Processor examples: ARM in smartphones, MIPS.
+- Focuses on **more complex instructions**
+- A single instruction can perform **multiple operations**
+- Reduces the number of instructions per program
+- May require **more clock cycles per instruction**
+- Example: x86
 
-## Quick Comparison
+**Key Idea:**
+Do more work with fewer instructions.
 
-| Feature               | CISC                       | RISC                       |
-|-----------------------|----------------------------|----------------------------|
-| Instruction Complexity | High                       | Low                        |
-| Number of Instructions| Fewer                      | More                       |
-| Execution Speed       | Slower per instruction     | Faster per instruction     |
-| Processor Examples    | Intel, AMD                 | ARM, MIPS                  |
+---
 
-# An Easy Explanation of How This Works
+### RISC (Reduced Instruction Set Computing)
 
-ISA (Instruction Set Architecture) is the “language” that the processor understands. It defines the instructions that can be used.
+- Focuses on **simpler and more uniform instructions**
+- Each instruction typically performs **one operation**
+- Requires **more instructions per program**
+- Usually executes instructions **faster and more efficiently**
+- Example: ARM
 
-x86 is a specific example of this language, like “German” within the world of processor languages. 
+**Key Idea:**
+Do less per instruction, but execute them faster.
 
-CISC (Complex Instruction Set Computer) is the way x86 is spoken, that is, the style of building and executing these instructions — with more complex commands capable of doing multiple things in a single instruction.
+---
 
-# My Project Analogy
+### Important Notes
 
-This project presents a visual flowchart illustrating CPU architecture using a language analogy:
+- CISC and RISC are **not ISAs**
+- They are **design approaches used to create ISAs**
+- Modern processors may internally translate instructions into simpler operations, regardless of whether they follow CISC or RISC principles
 
-- The **ISA** defines the set of instructions that a CPU can understand and execute.  
-- “In this analogy, **CISC and RISC** are different design styles:
-CISC uses more complex instructions (like full sentences), while RISC uses simpler instructions (like short words), providing the set of words available to construct instructions.  
-- **x86 and ARM** are examples of ISAs that follow the CISC and RISC design styles, respectively., representing fully functional instruction sets.
+---
 
-The project applies “language filters”: **x86 German with German dictionary (CISC) with rules: uses full sentences**, while **ARM English with English dictionary (RISC)with rules: uses individual words**, showing different ways instructions can be structured and executed.
+### Examples
 
-# Note:
-Remember that this is all just a visual analogy I created for better understanding.
+- x86 → ISA designed with CISC principles  
+- ARM → ISA designed with RISC principles  
 
-![Processor Architecture](image.jpeg)
+---
+
+### Summary
+
+- ISA defines **what instructions a CPU can execute**
+- CISC and RISC define **how those instructions are designed**
+- Both approaches aim to optimize performance in different ways
