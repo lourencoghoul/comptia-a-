@@ -47,7 +47,7 @@ Do less per instruction, but execute them faster.
 - ARM → ISA designed with RISC principles  
 
 
-![CPU Architecture](Hardware/imagem.jpeg)
+![CPU Architecture](Hardware/imagem2.jpeg)
 ---
 
 ### Summary
