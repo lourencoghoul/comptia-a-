@@ -35,6 +35,6 @@ x86 is a specific example of this language, like “German” within the world o
 
 CISC (Complex Instruction Set Computer) is the way x86 is spoken, that is, the style of building and executing these instructions — with more complex commands capable of doing multiple things in a single instruction.
 
-# Meu Projeto
+# My Project
 
-![Processor Architecture](WhatsApp Image 2026-03-28 at 11.16.25.jpeg)
+![Processor Architecture](image.jpeg)
