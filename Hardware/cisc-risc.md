@@ -46,8 +46,7 @@ Do less per instruction, but execute them faster.
 - x86 → ISA designed with CISC principles  
 - ARM → ISA designed with RISC principles  
 
-
-![CPU Architecture](Hardware/imagem2.jpeg)
+![CPU Architecture](imagem2.jpeg)
 ---
 
 ### Summary
