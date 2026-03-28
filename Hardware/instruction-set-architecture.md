@@ -1,19 +1,19 @@
-##  ISA (Arquitetura de Conjunto de Instruções)
+##  ISA (Instruction Set Architecture)
 
-ISA (Instruction Set Architecture) é o conjunto de instruções que um processador pode entender e executar. Ela define como o software se comunica com o hardware.
-
----
-
-##  O que inclui
-
-* Instruções suportadas (soma, subtração, movimentação, etc.)
-* Tipos de dados
-* Registradores
-* Modos de endereçamento de memória
+ISA (Instruction Set Architecture) is the set of instructions that a processor can understand and execute. It defines how software communicates with hardware.
 
 ---
 
-##  Exemplos
+##  What it includes
+
+* Supported instructions (addition, subtraction, movement, etc.)
+* Data types
+* Registers
+* Memory addressing modes
+
+---
+
+##  Examples
 
 * x86
 * x86-64
@@ -21,9 +21,10 @@ ISA (Instruction Set Architecture) é o conjunto de instruções que um processa
 
 ---
 
-##  Observação
+##  Note
 
-A ISA funciona como uma ponte entre o software e o hardware, permitindo que programas sejam executados em um tipo específico de processador.
+ISA acts as a bridge between software and hardware, allowing programs to run on a specific type of processor.
+
 
 ##  x86-32 and x86-64 (Processor Architectures)
 
