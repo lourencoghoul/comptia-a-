@@ -15,7 +15,7 @@ A processor with 3.0 GHz (Gigahertz) means:
 - 3 billion cycles per second
 
 ## Common Units
-- Hz (Hertz) = 1 cycle per second
+- Hz (Hertz) = 1 Hz
 - kHz (Kilohertz) = 1,000 Hz
 - MHz (Megahertz) = 1,000,000 Hz
 - GHz (Gigahertz) = 1,000,000,000 Hz
