@@ -17,3 +17,53 @@ Understanding the difference between architecture and generation helps users mak
 Whether for gaming, development, or business use, analyzing CPU architecture and generation is a key step in selecting the right processor.
 
 ![CPU](examplecpu.png)
+
+## How to Understand a CPU Name
+
+A processor’s name is not random—it provides key information about performance, generation, and features. Using examples like Intel Core i9 12900K and AMD Ryzen 9 5900X, you can break it down as follows:
+
+### 1. Brand
+- Intel Core / AMD Ryzen  
+- Indicates the manufacturer and main product line
+
+### 2. Tier (Performance Level)
+- Example: i9, Ryzen 9  
+- Defines performance within the lineup  
+  (i3 < i5 < i7 < i9 | Ryzen 3 < 5 < 7 < 9)
+
+### 3. Generation
+- Example: 12 in 12900K / 5 in 5900X  
+- Represents the processor’s evolution  
+- Newer generations usually bring better performance and efficiency
+
+### 4. Model Number
+- Example: 900 in 12900K / 900 in 5900X  
+- Differentiates CPUs within the same generation  
+- Higher numbers generally indicate better performance
+
+### 5. Suffix
+- Example: K / X  
+- Indicates special features
+
+Common suffixes:
+- K (Intel) → Unlocked for overclocking  
+- X (AMD) → Higher performance within the series  
+- F (Intel) → No integrated graphics  
+- G (AMD) → Includes integrated graphics  
+
+---
+
+## Key Concept: Overclocking
+
+Overclocking means increasing the CPU’s clock speed beyond its default settings to gain more performance. It requires proper cooling and power management to ensure system stability.
+
+---
+
+## Conclusion
+
+Understanding these elements helps you:
+- Accurately compare CPUs  
+- Avoid poor purchasing decisions  
+- Choose the right processor for your needs  
+
+This knowledge is essential for anyone working with computers, whether for gaming, development, or business use.
