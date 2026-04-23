@@ -28,7 +28,7 @@ In data measurement, letters represent quantities:
 
 # Analogy
 
-![bits-analogy](../Oinformata.png)
+![bits-analogy](Oinformata.png)
 
 Data transmission from one computer to another can be understood as an electrical signal that varies over time. In this analogy, **0 volts represents bit 0 (low signal)** and **0.5 volts represents bit 1 (high signal)**.
 
